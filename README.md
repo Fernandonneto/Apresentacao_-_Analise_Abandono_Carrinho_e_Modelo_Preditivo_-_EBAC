@@ -1,4 +1,4 @@
-# Apresentacao_-_Analise_Abandono_Carrinho_e_Modelo_Preditivo_-_EBAC
+# Apresentação: Analise de abandono de carrinho e modelo preditivo
 
 ## 📌 Contexto
 
