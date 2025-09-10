@@ -8,7 +8,7 @@ O desafio proposto pelo time de Marketing foi analisar o aumento significativo d
 
 ## 📊 Análise Inicial
 
-Com base nos dados fornecidos, foi possível construir uma storytelling sobre o problema:
+Com base no gráfico fornecido, foi possível construir uma storytelling sobre o problema:
 
 * O abandono do carrinho cresceu nos últimos meses, principalmente em períodos de maior tráfego.
 
